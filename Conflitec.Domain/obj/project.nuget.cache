@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2oBHhyNtFQ06Y0iEvtw3aKigA+KJ0+fQ6MzIwkzi/VniEf2JST+bzeb++G+0bOj+D9aTvJGxk+TeC+d721LUdA==",
+  "dgSpecHash": "CSDUotiiqnAilVAB2PTqjwM+WvpCKl2Gj+n5L3m790i5vxmiUnwZ1+pr+yqSZ2UJt0wZCjw6RcROQiT64KVVdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Domain\\Conflitec.Domain.csproj",
+  "projectFilePath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Domain\\Conflitec.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ricoi\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
     "C:\\Users\\ricoi\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",

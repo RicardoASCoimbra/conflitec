@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Bdd9xDLD+CqTMF2M/avO0kvtdyrSickOJ7uPIlIWqlwYNgl/xqNVraL/sgnqrp8uHkGeFXk9n4j99C0+jMrvQ==",
+  "dgSpecHash": "PBvPH0mMD5fNEsDx9fWk4BT2mv16+zvxjPp+3V+ZLWjXcQgJVqqwF4Au2/0OrEFRiLYBjyVLR8V7Rm5+lYbqaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Infra.Data\\Conflitec.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Infra.Data\\Conflitec.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ricoi\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\ricoi\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",

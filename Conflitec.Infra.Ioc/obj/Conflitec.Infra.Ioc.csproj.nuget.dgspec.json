@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Infra.Ioc\\Conflitec.Infra.Ioc.csproj": {}
+    "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Infra.Ioc\\Conflitec.Infra.Ioc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Domain.Core\\Conflitec.Domain.Core.csproj": {
+    "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Domain.Core\\Conflitec.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Domain.Core\\Conflitec.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Domain.Core\\Conflitec.Domain.Core.csproj",
         "projectName": "Conflitec.Domain.Core",
-        "projectPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Domain.Core\\Conflitec.Domain.Core.csproj",
+        "projectPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Domain.Core\\Conflitec.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\ricoi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Domain.Core\\obj\\",
+        "outputPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -62,8 +62,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -72,18 +71,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.109\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Domain\\Conflitec.Domain.csproj": {
+    "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Domain\\Conflitec.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Domain\\Conflitec.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Domain\\Conflitec.Domain.csproj",
         "projectName": "Conflitec.Domain",
-        "projectPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Domain\\Conflitec.Domain.csproj",
+        "projectPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Domain\\Conflitec.Domain.csproj",
         "packagesPath": "C:\\Users\\ricoi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Domain\\obj\\",
+        "outputPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -107,8 +106,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Domain.Core\\Conflitec.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Domain.Core\\Conflitec.Domain.Core.csproj"
+              "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Domain.Core\\Conflitec.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Domain.Core\\Conflitec.Domain.Core.csproj"
               }
             }
           }
@@ -146,8 +145,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -156,18 +154,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.109\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Infra.Bus\\Conflitec.Infra.Bus.csproj": {
+    "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Infra.Bus\\Conflitec.Infra.Bus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Infra.Bus\\Conflitec.Infra.Bus.csproj",
+        "projectUniqueName": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Infra.Bus\\Conflitec.Infra.Bus.csproj",
         "projectName": "Conflitec.Infra.Bus",
-        "projectPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Infra.Bus\\Conflitec.Infra.Bus.csproj",
+        "projectPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Infra.Bus\\Conflitec.Infra.Bus.csproj",
         "packagesPath": "C:\\Users\\ricoi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Infra.Bus\\obj\\",
+        "outputPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Infra.Bus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -191,8 +189,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Domain.Core\\Conflitec.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Domain.Core\\Conflitec.Domain.Core.csproj"
+              "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Domain.Core\\Conflitec.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Domain.Core\\Conflitec.Domain.Core.csproj"
               }
             }
           }
@@ -218,8 +216,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -228,18 +225,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.109\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Infra.Data\\Conflitec.Infra.Data.csproj": {
+    "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Infra.Data\\Conflitec.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Infra.Data\\Conflitec.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Infra.Data\\Conflitec.Infra.Data.csproj",
         "projectName": "Conflitec.Infra.Data",
-        "projectPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Infra.Data\\Conflitec.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Infra.Data\\Conflitec.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\ricoi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -263,11 +260,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Domain\\Conflitec.Domain.csproj": {
-                "projectPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Domain\\Conflitec.Domain.csproj"
+              "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Domain\\Conflitec.Domain.csproj": {
+                "projectPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Domain\\Conflitec.Domain.csproj"
               },
-              "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Services\\Conflitec.Services.csproj": {
-                "projectPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Services\\Conflitec.Services.csproj"
+              "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Services\\Conflitec.Services.csproj": {
+                "projectPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Services\\Conflitec.Services.csproj"
               }
             }
           }
@@ -325,8 +322,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -335,18 +331,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.109\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Infra.Ioc\\Conflitec.Infra.Ioc.csproj": {
+    "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Infra.Ioc\\Conflitec.Infra.Ioc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Infra.Ioc\\Conflitec.Infra.Ioc.csproj",
+        "projectUniqueName": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Infra.Ioc\\Conflitec.Infra.Ioc.csproj",
         "projectName": "Conflitec.Infra.Ioc",
-        "projectPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Infra.Ioc\\Conflitec.Infra.Ioc.csproj",
+        "projectPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Infra.Ioc\\Conflitec.Infra.Ioc.csproj",
         "packagesPath": "C:\\Users\\ricoi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Infra.Ioc\\obj\\",
+        "outputPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Infra.Ioc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -370,17 +366,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Domain\\Conflitec.Domain.csproj": {
-                "projectPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Domain\\Conflitec.Domain.csproj"
+              "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Domain\\Conflitec.Domain.csproj": {
+                "projectPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Domain\\Conflitec.Domain.csproj"
               },
-              "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Infra.Bus\\Conflitec.Infra.Bus.csproj": {
-                "projectPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Infra.Bus\\Conflitec.Infra.Bus.csproj"
+              "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Infra.Bus\\Conflitec.Infra.Bus.csproj": {
+                "projectPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Infra.Bus\\Conflitec.Infra.Bus.csproj"
               },
-              "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Infra.Data\\Conflitec.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Infra.Data\\Conflitec.Infra.Data.csproj"
+              "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Infra.Data\\Conflitec.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Infra.Data\\Conflitec.Infra.Data.csproj"
               },
-              "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Services\\Conflitec.Services.csproj": {
-                "projectPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Services\\Conflitec.Services.csproj"
+              "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Services\\Conflitec.Services.csproj": {
+                "projectPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Services\\Conflitec.Services.csproj"
               }
             }
           }
@@ -410,8 +406,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -420,18 +415,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.109\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Services\\Conflitec.Services.csproj": {
+    "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Services\\Conflitec.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Services\\Conflitec.Services.csproj",
+        "projectUniqueName": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Services\\Conflitec.Services.csproj",
         "projectName": "Conflitec.Services",
-        "projectPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Services\\Conflitec.Services.csproj",
+        "projectPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Services\\Conflitec.Services.csproj",
         "packagesPath": "C:\\Users\\ricoi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Services\\obj\\",
+        "outputPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -455,8 +450,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Domain\\Conflitec.Domain.csproj": {
-                "projectPath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Domain\\Conflitec.Domain.csproj"
+              "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Domain\\Conflitec.Domain.csproj": {
+                "projectPath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Domain\\Conflitec.Domain.csproj"
               }
             }
           }
@@ -490,8 +485,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -500,7 +494,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.109\\RuntimeIdentifierGraph.json"
         }
       }
     }

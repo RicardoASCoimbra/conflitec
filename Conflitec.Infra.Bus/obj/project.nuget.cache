@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pPyQCkUDBTiPva3avewJBZ60MPN5KPHaOPD8xkpXb9DlD0xGzY9FOqhY4niKP2wnWurdH6hVQLQSGHTibLG+KA==",
+  "dgSpecHash": "eKk7TVbGKcMNDHanxFJ9xUa1i3/HgaDj7heIykINu/fN9jXpfBsw2mqD12M5wsQtMDfilaMAEjbMzJ1lx9aHUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Infra.Bus\\Conflitec.Infra.Bus.csproj",
+  "projectFilePath": "C:\\Users\\ricoi\\AZURE\\GIT\\Conflitec.Infra.Bus\\Conflitec.Infra.Bus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ricoi\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
     "C:\\Users\\ricoi\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
