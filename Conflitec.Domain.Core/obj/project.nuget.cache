@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kN8hu4UyCx9WhECpj8VVZ5NrQnWNlZicvyRPPqhW5dL/ZuaRxFo7yS0cDnhqdy+FmAh4iYoJDJmldfwXID3GbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ricoi\\GIT\\conflitec\\Conflitec.Domain.Core\\Conflitec.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ricoi\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\ricoi\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\ricoi\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

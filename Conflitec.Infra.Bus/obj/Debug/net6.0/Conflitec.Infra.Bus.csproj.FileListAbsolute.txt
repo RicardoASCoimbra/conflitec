@@ -1,0 +1,15 @@
+C:\Users\ricoi\source\repos\Conflitec\Conflitec.Infra.Bus\bin\Debug\net6.0\Conflitec.Infra.Bus.deps.json
+C:\Users\ricoi\source\repos\Conflitec\Conflitec.Infra.Bus\bin\Debug\net6.0\Conflitec.Infra.Bus.dll
+C:\Users\ricoi\source\repos\Conflitec\Conflitec.Infra.Bus\bin\Debug\net6.0\Conflitec.Infra.Bus.pdb
+C:\Users\ricoi\source\repos\Conflitec\Conflitec.Infra.Bus\bin\Debug\net6.0\Conflitec.Domain.Core.dll
+C:\Users\ricoi\source\repos\Conflitec\Conflitec.Infra.Bus\bin\Debug\net6.0\Conflitec.Domain.Core.pdb
+C:\Users\ricoi\source\repos\Conflitec\Conflitec.Infra.Bus\obj\Debug\net6.0\Conflitec.Infra.Bus.csproj.AssemblyReference.cache
+C:\Users\ricoi\source\repos\Conflitec\Conflitec.Infra.Bus\obj\Debug\net6.0\Conflitec.Infra.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricoi\source\repos\Conflitec\Conflitec.Infra.Bus\obj\Debug\net6.0\Conflitec.Infra.Bus.AssemblyInfoInputs.cache
+C:\Users\ricoi\source\repos\Conflitec\Conflitec.Infra.Bus\obj\Debug\net6.0\Conflitec.Infra.Bus.AssemblyInfo.cs
+C:\Users\ricoi\source\repos\Conflitec\Conflitec.Infra.Bus\obj\Debug\net6.0\Conflitec.Infra.Bus.csproj.CoreCompileInputs.cache
+C:\Users\ricoi\source\repos\Conflitec\Conflitec.Infra.Bus\obj\Debug\net6.0\Conflitec.Infra.Bus.csproj.CopyComplete
+C:\Users\ricoi\source\repos\Conflitec\Conflitec.Infra.Bus\obj\Debug\net6.0\Conflitec.Infra.Bus.dll
+C:\Users\ricoi\source\repos\Conflitec\Conflitec.Infra.Bus\obj\Debug\net6.0\refint\Conflitec.Infra.Bus.dll
+C:\Users\ricoi\source\repos\Conflitec\Conflitec.Infra.Bus\obj\Debug\net6.0\Conflitec.Infra.Bus.pdb
+C:\Users\ricoi\source\repos\Conflitec\Conflitec.Infra.Bus\obj\Debug\net6.0\ref\Conflitec.Infra.Bus.dll
